@@ -3,6 +3,7 @@
 一个基于 Markdown 的开源静态简历模板，适合作为公开仓库、个人站点示例，或二次定制的起点。
 
 [![Deploy to Cloudflare Pages](https://img.shields.io/badge/Deploy%20to-Cloudflare%20Pages-F38020?logo=cloudflare&logoColor=white)](https://dash.cloudflare.com/?to=/:account/workers-and-pages)
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-cf--pages--resume--template.pages.dev-0EA5E9?logo=cloudflarepages&logoColor=white)](https://cf-pages-resume-template.pages.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
 ## 页面预览
